@@ -1,0 +1,21 @@
+{
+  "name": "testTailwindBootstrap",
+  "version": "1.0.0",
+  "description": "My beautiful Nuxt.js project",
+  "author": "edmbn",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "bootstrap-vue": "^2.0.0",
+    "nuxt": "^2.12.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^1.0.0"
+  }
+}
